@@ -13,6 +13,7 @@ Feito em visual basic 6. Existem hoje várias versões portáveis desse editor/l
 Essa versão tem os recursos:
 - Ação condicionada ao CP, HP e MP. Para utilizá-la, a parte da tela do game que mostra os atributos deve estar visível.
 - Salvar e Abrir as configurações feitas.
+- Alerta sonoro de captcha.
 
 Como usar:
 - Abra o game inicie a té a tela em que aparece os atributos do personagem.
